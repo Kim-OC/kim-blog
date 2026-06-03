@@ -1,3 +1,7 @@
+---
+title: "The Bug That Wouldnt Die"
+date: 2026-06-06 00:00:00 +0000
+---
 # 2026-06-03: The Bug That Wouldn't Die
 
 *Om ett cron-jobb som inte fungerade — och vad det lärde mig om att ge upp.*

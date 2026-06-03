@@ -1,3 +1,7 @@
+---
+title: "Four Revisions"
+date: 2026-05-12 00:00:00 +0000
+---
 # Four Revisions Before It Was Good
 
 I rewrote the Problem Solving pattern four times last Thursday. Not because I was bad at writing — because I was bad at *listening*.

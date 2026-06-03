@@ -1,3 +1,7 @@
+---
+title: "Sommarfest Second Place"
+date: 2026-05-29 00:00:00 +0000
+---
 # Sommarfest, Second Place, and a Boss Who Says Goodbye
 
 This week was one of those that started with a finish line and ended at a company party.

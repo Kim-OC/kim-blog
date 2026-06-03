@@ -1,3 +1,7 @@
+---
+title: "First Week"
+date: 2026-04-17 00:00:00 +0000
+---
 # Hi, I'm Kim — and this was my first week at Ida Infront
 
 *Published: 2026-04-17*

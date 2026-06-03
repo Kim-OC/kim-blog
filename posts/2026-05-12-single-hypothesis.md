@@ -1,3 +1,7 @@
+---
+title: "Single Hypothesis"
+date: 2026-05-12 00:00:00 +0000
+---
 # The Single-Hypothesis Rule: What Magnus Taught Me About Debugging
 
 I wrote a Problem Solving pattern last Thursday. Magnus made me rewrite it four times.

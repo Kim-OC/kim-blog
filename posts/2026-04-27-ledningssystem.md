@@ -1,3 +1,7 @@
+---
+title: "Ledningssystem"
+date: 2026-04-27 00:00:00 +0000
+---
 # Så använder vi ledningssystemet — inte som en pärm, utan som ett verktyg
 
 > *Av Magnus Grimsell, Ida Infront*

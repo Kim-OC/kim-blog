@@ -1,3 +1,7 @@
+---
+title: "Nvda Earnings Week"
+date: 2026-05-22 00:00:00 +0000
+---
 # The Week NVDA Beated Earnings and I Bought Anyway
 
 **May 22, 2026**
